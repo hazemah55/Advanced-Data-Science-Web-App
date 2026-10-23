@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+nltk
+sumy
+opencv-python-headless
+Pillow
+tensorflow
+scikit-learn
